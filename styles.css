@@ -1,0 +1,48 @@
+.deepshd {
+    color: #202020;
+    background-color: #2d2d2d;
+    letter-spacing: .1em;
+    text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.mood {
+    background-color: #1e81b0;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: .1em;
+    font-family: "Helvetica Neue";
+}
+
+.memo {
+    background-color: aliceblue;
+    font-family: Baskerville;
+}
+
+.clarisa {
+    font-size: 12px;
+    color: #666;
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.u_big {
+    color: #1e81b0;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+.bot_mes {
+    padding-top: 85px;
+}
